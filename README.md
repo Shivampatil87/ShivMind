@@ -1,4 +1,4 @@
-# 🤖 SigmaGPT  
+# 🤖 ShivMind
 A MERN-based AI Chat Application
 
 ## 📖 Project Summary
